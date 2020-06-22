@@ -46,9 +46,9 @@
     </div>
   </div>
 </footer>
-<script type="text/javascript" src="/js/lib/framework.js"></script>
-<script type="text/javascript" src="/js/generals.min.js"></script>
-<script type="text/javascript" src="/js/lib/wow.min.js"></script>
+<script type="text/javascript" src="js/lib/framework.js"></script>
+<script type="text/javascript" src="js/generals.min.js"></script>
+<script type="text/javascript" src="js/lib/wow.min.js"></script>
 <!--[if lt IE 9]>
 <script type="text/javascript" src="/js/lib/respond.js"></script>
 <script type="text/javascript" src="/js/lib/modernizr.js"></script>

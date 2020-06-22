@@ -13,7 +13,7 @@
                     and graphics.</p>
             </div>
             <div class="col-md-4">
-                <img src="<?php bloginfo('template_url');?>/img/imagen-cuatro.jpg" alt="">
+                <img src="img/imagen-cuatro.jpg" alt="">
             </div>
             <div class="col-md-4">
                 <h3>CREATIVE TEAM</h3>

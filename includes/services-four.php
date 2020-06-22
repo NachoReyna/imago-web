@@ -7,7 +7,7 @@
             <div class="col-md-3 wow animate__animated animate__backInDown">
                 <!--div class="mask"></div-->
                 <div class="">
-                    <img src="<?php bloginfo('template_url');?>/img/imagen-dos.jpg" class="img-fluid" alt="">
+                    <img src="img/imagen-dos.jpg" class="img-fluid" alt="">
                 </div>
                 
                 <p class="efecto-textos textos-ligth altern-color pt-3 pb-3">EVENT COVERAGE</p> 
@@ -20,7 +20,7 @@
                 </ul>
             </div>
             <div class="col-md-3 mt-5 wow animate__animated animate__backInDown">
-                <img src="<?php bloginfo('template_url');?>/img/imagen-dos.jpg" class="img-fluid" alt="">
+                <img src="img/imagen-dos.jpg" class="img-fluid" alt="">
                 <p class="efecto-textos textos-ligth altern-color pt-3 pb-3">EVENT COVERAGE</p> 
                 <ul>
                     <li>Weddings</li>
@@ -31,7 +31,7 @@
                 </ul>
             </div>
             <div class="col-md-3 wow animate__animated animate__backInDown">
-                <img src="<?php bloginfo('template_url');?>/img/imagen-dos.jpg" class="img-fluid" alt="">
+                <img src="img/imagen-dos.jpg" class="img-fluid" alt="">
                 <p class="efecto-textos textos-ligth altern-color pt-3 pb-3">EVENT COVERAGE</p> 
                 <ul>
                     <li>Weddings</li>
@@ -42,7 +42,7 @@
                 </ul>
             </div>
             <div class="col-md-3 mt-5 wow animate__animated animate__backInDown">
-                <img src="<?php bloginfo('template_url');?>/img/imagen-dos.jpg" class="img-fluid" alt="">
+                <img src="img/imagen-dos.jpg" class="img-fluid" alt="">
                 <p class="efecto-textos textos-ligth altern-color pt-3 pb-3">EVENT COVERAGE</p> 
                 <ul>
                     <li>Weddings</li>

@@ -14,8 +14,8 @@
 		<meta name="description" content="">
 		<meta name="keywords" content="">
 		<!--meta name="robots" content="INDEX,FOLLOW" NO SEO/-->
-		<link type="text/css" rel="stylesheet" href="/css/bootstrap.min.css">
-		<link type="text/css" rel="stylesheet" href="/css/generals.css">
+		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+		<link type="text/css" rel="stylesheet" href="css/generals.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css" integrity="sha384-xxzQGERXS00kBmZW/6qxqJPyxW3UR0BPsL4c8ILaIWXva5kFi7TxkIIaMiKtqV1Q" crossorigin="anonymous">
   		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"/>
 		<!--[if IE 6]>
@@ -33,11 +33,11 @@
 		<title></title>
 	
 	</head>
-<?php include('includes/header-nav.php') ?>
+<?php include('includes/header-nav.php'); ?>
 <header>
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="container">
-			<a class="navbar-brand" href="#"><img src="/img/logo-imago.png" class="img-fluid logo-header-principal" alt=""></a>
+			<a class="navbar-brand" href="#"><img src="img/logo-imago.png" class="img-fluid logo-header-principal" alt=""></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>

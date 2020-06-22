@@ -12,22 +12,22 @@
             </div>
             <div class="owl-carousel  owl-carousel-part  owl-theme pt-4">
             <div class="item d-flex justify-content-center align-items-center">
-                <img src="<?php bloginfo('template_url');?>/img/logo-ex.png" alt="">
+                <img src="img/logo-ex.png" alt="">
             </div>
             <div class="item d-flex justify-content-center align-items-center">
-                <img src="<?php bloginfo('template_url');?>/img/logo-ex.png" alt="">
+                <img src="img/logo-ex.png" alt="">
             </div>
             <div class="item d-flex justify-content-center align-items-center">
-                <img src="<?php bloginfo('template_url');?>/img/logo-ex.png" alt="">
+                <img src="img/logo-ex.png" alt="">
             </div>
             <div class="item d-flex justify-content-center align-items-center">
-                <img src="<?php bloginfo('template_url');?>/img/logo-ex.png" alt="">
+                <img src="img/logo-ex.png" alt="">
             </div>
             <div class="item d-flex justify-content-center align-items-center">
-                <img src="<?php bloginfo('template_url');?>/img/logo-ex.png" alt="">
+                <img src="img/logo-ex.png" alt="">
             </div>
             <div class="item d-flex justify-content-center align-items-center">
-                <img src="<?php bloginfo('template_url');?>/img/logo-ex.png" alt="">
+                <img src="img/logo-ex.png" alt="">
             </div>
             
         </div>
