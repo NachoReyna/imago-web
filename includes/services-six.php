@@ -1,8 +1,8 @@
 <section id="services-six">
     <div class="container">
         <div class="row pt-4 pb-4 wow animate__animated animate__fadeInDown">
-            <div class="col-md-12">
-                <h2 class="text-center pb-4">NUESTRO EQUIPO</h2>
+            <div class="col-md-12 text-center">
+                <h1 class="py-4 estilo-titulos-section-genrals-tamano">NUESTRO EQUIPO.</h1>
             </div>
             <div class="offset-1 col-md-3 services-six-box-text p-4">
                 <h3 class="pb-4 pt-2">TEAM</h3>

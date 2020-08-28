@@ -1,6 +1,72 @@
 #ImagoSite {
     font-family: 'Oswald', sans-serif;
 
+
+    .estilo-titulos-section-genrals-tamano {
+        font-size: 50px;
+    }
+
+    .estilo-sub-titulos-section-genrals-tamano {
+        font-size: 35px;
+    }
+
+    .parrafos-generales {
+        color: #6b6b6b;
+        font-size: 16px;
+
+        &.blanco {
+            color: #ffffff;
+        }
+    }
+
+    .fondo-previo {
+        background-color: #000000;
+    }
+
+    .enlaces-generales {
+        font-size: 18px;
+    }
+
+    .estilo-iconos-imago {
+
+        width: 100%;
+        max-width: 60px;
+        padding-bottom: 10px;
+
+    }
+
+    .icons-imago-casa {
+        background-image: url('./../img/icons/casa-productora.png');
+    }
+
+    .icons-imago-diseno {
+        background-image: url('./../img/icons/diseño.png');
+    }
+
+    .icons-imago-drone {
+        background-image: url('./../img/icons/drone.png');
+    }
+
+    .icons-imago-foto {
+        background-image: url('./../img/icons/foto.png');
+    }
+
+    .icons-imago-cam {
+        background-image: url('./../img/icons/video.png');
+    }
+
+    .icons-imago-voz {
+        background-image: url('./../img/icons/voz.png');
+    }
+
+    #myVideo {
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 600px;
+
+    }
+
     #header-nav {
         background-color: black;
         text-transform: uppercase;
@@ -13,8 +79,8 @@
     }
 
     #services-first {
-        padding-top: 90px;
-        padding-bottom: 90px;
+        padding-top: 85px;
+        padding-bottom: 85px;
 
         h2 {
             color: #4e4e4e;
@@ -70,12 +136,18 @@
         }
 
         .services-second-section-texto {
-            padding-top: 50px;
-            padding-bottom: 50px;
+            padding-top: 35px;
+            padding-bottom: 35px;
             padding-left: 80px;
             padding-right: 80px;
         }
+
+        .icon-play {
+            color: #fff;
+            font-size: 80px;
+        }
     }
+
 
     #services-thirt {
         .fondo-video-play {
@@ -90,8 +162,7 @@
             }
         }
 
-        h2 {
-            font-size: 50px;
+        h1 {
             color: #ffffff;
         }
 
@@ -137,8 +208,39 @@
         background-color: #232d35;
     }
 
+    #services-packs {
+        .cuadro-precios{
+            background-color: #fff;
+            color: black;
+        }
+        h2 {
+            font-size: 40px;
+        }
+
+        .mask {
+            border: 10px solid white;
+            background: black;
+        }
+
+        ul {
+            padding-left: 15px;
+            list-style-type: square;
+
+        }
+
+        li {
+            list-style-type: square;
+        }
+
+
+
+        color: #ffffff;
+        background-color: #009BDB;
+    }
+
     #services-five {
-        color:#ffffff;
+        color: #ffffff;
+
         h2 {
             color: #ffffff;
             font-size: 40px;
@@ -185,6 +287,32 @@
         }
     }
 
+    #services-coments {
+        .owl-nav {
+            display: none;
+        }
+
+        .owl-dots {
+            display: none;
+        }
+
+        h2 {
+            font-size: 40px;
+            text-transform: uppercase;
+        }
+
+        background-image: url('./../img/img-uno.jpg');
+        height: 500px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color:#ffffff;
+
+        .services-seven-box-text {
+            padding: 0;
+        }
+    }
+
     footer {
         color: #ffffff;
 
@@ -212,14 +340,7 @@
         width: 50px;
     }
 
-    .parrafos-generales {
-        color: #6b6b6b;
-        font-size: 14px;
 
-        &.blanco {
-            color: #ffffff;
-        }
-    }
 
     .no-gutters {
         padding: 0;
@@ -248,7 +369,6 @@
     }
 
     .efecto-textos {
-        font-size: 22px;
         color: #000000;
         -webkit-transition: color 1s;
         transition: color .5s;

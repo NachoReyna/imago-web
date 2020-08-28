@@ -1,8 +1,8 @@
 <section id="services-seven">
     <div class="container">
-       <div class="row d-flex justify-content-center align-items-center wow animate__animated animate__fadeInDown">
-            <div class="col-md-12 pt-4 pb-4">
-                <h2 class="text-center pb-4">PORTAFOLIO DE MARCAS</h2>
+       <div class="row pt-4 pb-4 d-flex justify-content-center align-items-center wow animate__animated animate__fadeInDown">
+            <div class="col-md-12 text-center">
+                <h1 class="pb-5 estilo-titulos-section-genrals-tamano">PORTAFOLIO DE MARCAS.</h1>
             </div>
             <hr>
             <div class="col-md-10 pt-4 pb-4 text-center ">
@@ -11,27 +11,25 @@
                     for the best books, audio books, textbooks and videos.</p>
             </div>
             <div class="owl-carousel  owl-carousel-part  owl-theme pt-4">
-            <div class="item d-flex justify-content-center align-items-center">
-                <img src="img/logo-ex.png" alt="">
+                <div class="item d-flex justify-content-center align-items-center">
+                    <img src="img/logo-ex.png" alt="">
+                </div>
+                <div class="item d-flex justify-content-center align-items-center">
+                    <img src="img/logo-ex.png" alt="">
+                </div>
+                <div class="item d-flex justify-content-center align-items-center">
+                    <img src="img/logo-ex.png" alt="">
+                </div>
+                <div class="item d-flex justify-content-center align-items-center">
+                    <img src="img/logo-ex.png" alt="">
+                </div>
+                <div class="item d-flex justify-content-center align-items-center">
+                    <img src="img/logo-ex.png" alt="">
+                </div>
+                <div class="item d-flex justify-content-center align-items-center">
+                    <img src="img/logo-ex.png" alt="">
+                </div>
             </div>
-            <div class="item d-flex justify-content-center align-items-center">
-                <img src="img/logo-ex.png" alt="">
-            </div>
-            <div class="item d-flex justify-content-center align-items-center">
-                <img src="img/logo-ex.png" alt="">
-            </div>
-            <div class="item d-flex justify-content-center align-items-center">
-                <img src="img/logo-ex.png" alt="">
-            </div>
-            <div class="item d-flex justify-content-center align-items-center">
-                <img src="img/logo-ex.png" alt="">
-            </div>
-            <div class="item d-flex justify-content-center align-items-center">
-                <img src="img/logo-ex.png" alt="">
-            </div>
-            
-        </div>
        </div>
-        
     </div>
 </section>

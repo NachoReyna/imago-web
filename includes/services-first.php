@@ -1,29 +1,28 @@
 <section id="services-first">
-    <div class="container  pt-3 pb-3">
-        <div class="row d-flex align-items-center pt-5 pb-5 wow animate__animated animate__fadeInDown">
+    <div class="container">
+        <div class="row d-flex align-items-center wow animate__animated animate__fadeInDown">
             <div class="col-md-12 text-center">
-                <h2 class="pb-5">IMAGO MKT</h2>
+                <h1 class="py-4 estilo-titulos-section-genrals-tamano">IMAGO MKT</h1>
             </div>
             <div class="col-md-4">
-                <h2 class="efecto-textos"><i class="fas fa-camera-retro efecto-textos-elementos"></i> Producción</h2>
-                <p class="parrafos-generales">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante purus, 
-                    euismod sit amet diam vel, ultrices tempus eros. Phasellus justo nisl, 
-                    malesuada et elit in, mattis fringilla arcu.</p>
-                <p><a href="" class="enlaces-imago">Más Información</a></p>
+                <h2 class="efecto-textos estilo-sub-titulos-section-genrals-tamano"><img src="img/icons/casa-productora.png" class="img-fluid estilo-iconos-imago" alt=""> Producción</h2>
+                <p class="parrafos-generales">Estamos dedicados a la producción y organización de eventos corporativos, comerciales, 
+                institucionales, culturales y artísticos, contamos también con una casa productora para la realización de spots 
+                publicitarios.</p>
+                <p class="enlaces-generales"><a href="" class="enlaces-imago">Más Información</a></p>
             </div>
             <div class="col-md-4">
-                <h2 class="efecto-textos"><i class="fas fa-video efecto-textos-elementos"></i> Video HD</h2>
-                <p class="parrafos-generales">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante purus, 
-                    euismod sit amet diam vel, ultrices tempus eros. Phasellus justo nisl, 
-                    malesuada et elit in, mattis fringilla arcu.</p>
-                <p><a href="" class="enlaces-imago">Más Información</a></p>
+                <h2 class="efecto-textos estilo-sub-titulos-section-genrals-tamano"><img src="img/icons/video.png" class="img-fluid estilo-iconos-imago" alt=""> Video HD</h2>
+                <p class="parrafos-generales">Contamos con equipo de la más alta calidad y tecnología, para la realización de eventos como 
+                mobiliario, display, equipo de audio, equipo de iluminación, fotografía y ambientación. Renta de Pantallas y equipo audiovisual.</p>
+                <p class="enlaces-generales"><a href="" class="enlaces-imago">Más Información</a></p>
             </div>
             <div class="col-md-4">
-                <h2 class="efecto-textos"><i class="fas fa-camera-retro efecto-textos-elementos"></i> Multimedia</h2>
-                <p class="parrafos-generales">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante purus, 
-                    euismod sit amet diam vel, ultrices tempus eros. Phasellus justo nisl, 
-                    malesuada et elit in, mattis fringilla arcu.</p>
-                <p><a href="" class="enlaces-imago">Más Información</a></p>
+                <h2 class="efecto-textos estilo-sub-titulos-section-genrals-tamano"><img src="img/icons/foto.png" class="img-fluid estilo-iconos-imago" alt=""> Multimedia</h2>
+                <p class="parrafos-generales">Dentro de nuestros servicios de marketing digital, contamos con el servicio de Diseño web, 
+                enfocándonos a las ideas principales del cliente, desarrollo en aplicaciones móviles, elaboración de contenido para redes 
+                sociales.</p>
+                <p class="enlaces-generales"><a href="" class="enlaces-imago">Más Información</a></p>
             </div>
         </div>
     </div>

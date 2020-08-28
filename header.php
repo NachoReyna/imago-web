@@ -6,7 +6,7 @@
 		<meta property="fb:app_id" content=""/>
 		<meta property="og:type"   content="website" />
 		<meta property="og:url"    content="" />
-		<meta property="og:title"  content="IMAGO MKT"/>
+		<meta property="og:title"  content=""/>
 		<meta property="og:image"  content="" />
 		<meta property="og:description"  content=""/>
 		<!-- End of facebook tagging -->
@@ -31,9 +31,8 @@
 			<link type="text/css" rel="stylesheet" href="/css/ie9.css">
         <![endif]-->
 		<title></title>
-	
 	</head>
-<?php include('includes/header-nav.php'); ?>
+<?php include('includes/header-nav.php') ?>
 <header>
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="container">

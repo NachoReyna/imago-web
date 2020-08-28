@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row pt-4 pb-4">
             <div class="col-md-12 text-center">
-                <h2 class="pt-4 pb-4">SERVICIOS DESTACADOS</h2>
+                <h1 class="py-4 estilo-titulos-section-genrals-tamano">SERVICIOS DESTACADOS.</h1>
             </div>
             <div class="col-md-3 wow animate__animated animate__backInDown">
                 <!--div class="mask"></div-->

@@ -1,6 +1,54 @@
 #ImagoSite {
   font-family: 'Oswald', sans-serif;
 }
+#ImagoSite .estilo-titulos-section-genrals-tamano {
+  font-size: 50px;
+}
+#ImagoSite .estilo-sub-titulos-section-genrals-tamano {
+  font-size: 35px;
+}
+#ImagoSite .parrafos-generales {
+  color: #6b6b6b;
+  font-size: 16px;
+}
+#ImagoSite .parrafos-generales.blanco {
+  color: #ffffff;
+}
+#ImagoSite .fondo-previo {
+  background-color: #000000;
+}
+#ImagoSite .enlaces-generales {
+  font-size: 18px;
+}
+#ImagoSite .estilo-iconos-imago {
+  width: 100%;
+  max-width: 60px;
+  padding-bottom: 10px;
+}
+#ImagoSite .icons-imago-casa {
+  background-image: url('../img/icons/casa-productora.png');
+}
+#ImagoSite .icons-imago-diseno {
+  background-image: url('../img/icons/diseño.png');
+}
+#ImagoSite .icons-imago-drone {
+  background-image: url('../img/icons/drone.png');
+}
+#ImagoSite .icons-imago-foto {
+  background-image: url('../img/icons/foto.png');
+}
+#ImagoSite .icons-imago-cam {
+  background-image: url('../img/icons/video.png');
+}
+#ImagoSite .icons-imago-voz {
+  background-image: url('../img/icons/voz.png');
+}
+#ImagoSite #myVideo {
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 600px;
+}
 #ImagoSite #header-nav {
   background-color: black;
   text-transform: uppercase;
@@ -11,8 +59,8 @@
   text-decoration: none;
 }
 #ImagoSite #services-first {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 85px;
+  padding-bottom: 85px;
 }
 #ImagoSite #services-first h2 {
   color: #4e4e4e;
@@ -50,10 +98,14 @@
   font-size: 40px;
 }
 #ImagoSite #services-second .services-second-section-texto {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 35px;
+  padding-bottom: 35px;
   padding-left: 80px;
   padding-right: 80px;
+}
+#ImagoSite #services-second .icon-play {
+  color: #fff;
+  font-size: 80px;
 }
 #ImagoSite #services-thirt .fondo-video-play {
   background-image: url('../img/imagen-video.jpg');
@@ -65,8 +117,7 @@
 #ImagoSite #services-thirt .fondo-video-play a {
   color: #ffffff;
 }
-#ImagoSite #services-thirt h2 {
-  font-size: 50px;
+#ImagoSite #services-thirt h1 {
   color: #ffffff;
 }
 #ImagoSite #services-thirt .icon-play {
@@ -96,6 +147,28 @@
   list-style-type: square;
 }
 #ImagoSite #services-four li {
+  list-style-type: square;
+}
+#ImagoSite #services-packs {
+  color: #ffffff;
+  background-color: #009BDB;
+}
+#ImagoSite #services-packs .cuadro-precios {
+  background-color: #fff;
+  color: black;
+}
+#ImagoSite #services-packs h2 {
+  font-size: 40px;
+}
+#ImagoSite #services-packs .mask {
+  border: 10px solid white;
+  background: black;
+}
+#ImagoSite #services-packs ul {
+  padding-left: 15px;
+  list-style-type: square;
+}
+#ImagoSite #services-packs li {
   list-style-type: square;
 }
 #ImagoSite #services-five {
@@ -134,6 +207,27 @@
 #ImagoSite #services-seven .services-seven-box-text {
   padding: 0;
 }
+#ImagoSite #services-coments {
+  background-image: url('../img/img-uno.jpg');
+  height: 500px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+}
+#ImagoSite #services-coments .owl-nav {
+  display: none;
+}
+#ImagoSite #services-coments .owl-dots {
+  display: none;
+}
+#ImagoSite #services-coments h2 {
+  font-size: 40px;
+  text-transform: uppercase;
+}
+#ImagoSite #services-coments .services-seven-box-text {
+  padding: 0;
+}
 #ImagoSite footer {
   color: #ffffff;
 }
@@ -154,13 +248,6 @@
 #ImagoSite .general-estilos-hr {
   border: red solid 0.1rem;
   width: 50px;
-}
-#ImagoSite .parrafos-generales {
-  color: #6b6b6b;
-  font-size: 14px;
-}
-#ImagoSite .parrafos-generales.blanco {
-  color: #ffffff;
 }
 #ImagoSite .no-gutters {
   padding: 0;
@@ -184,7 +271,6 @@
   transition: color 0.5s;
 }
 #ImagoSite .efecto-textos {
-  font-size: 22px;
   color: #000000;
   -webkit-transition: color 1s;
   transition: color 0.5s;
